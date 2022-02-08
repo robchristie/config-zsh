@@ -1,0 +1,5 @@
+plugins
+.zcalchistory
+.zcompcache
+.zcompdump
+.zsh_history
